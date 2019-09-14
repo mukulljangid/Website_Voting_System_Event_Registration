@@ -19,12 +19,12 @@ $row2=mysql_fetch_array($result2);
 
 if ($row1['username'] == $username && $row1['password'] == $password) 
 {
-	echo "login successful";
+	echo "Login successful";
 }elseif ($row2['username'] == $username && $row2['mpassword'] == $password) {
-	echo "you are going places";
+	echo "Login successful!";
 }else 
 {
-	echo "you suck";
+	echo "Incorrect username or password!";
 }
 
 

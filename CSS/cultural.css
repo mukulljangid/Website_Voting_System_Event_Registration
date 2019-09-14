@@ -1,0 +1,43 @@
+div.wrapper{
+	height:auto;
+	width:1250px;
+	margin-left:20px;
+	margin-right:auto;
+	<!--border: 4px solid #000000;-->
+}
+<!--div.cul1{
+	float:left;
+	width:200px;
+	height:200px;
+	margin-right:20px;
+	margin-left: 40px;
+	margin-top: 10px;
+	margin-bottom: 150px;
+	image-size: 100% 100%;
+	
+}-->
+
+<!--div.cul2{
+	float:left;
+	width:200px;
+	height:200px;
+	margin-left:40px;
+	margin-top:50px;
+}-->
+
+
+div.event{
+	align-self:center;
+	margin-top:3px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+div.wrapevent{
+	height:auto;
+	width:1100px;
+	margin-left:auto;
+	margin-right:auto;
+	<!--border: 4px solid #000000;-->
+}
+.mySlides {display:none;}
